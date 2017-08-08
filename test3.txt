@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 8266-C216
+
+ Directory of C:\Git_Test\Test_Source_tree
+
+07-08-2017  21:45    <DIR>          .
+07-08-2017  21:45    <DIR>          ..
+07-08-2017  21:19                12 README.md
+07-08-2017  21:19                21 Test1
+07-08-2017  21:23               426 test2.txt
+07-08-2017  21:45                 0 test3.txt
+               4 File(s)            459 bytes
+               2 Dir(s)  493,172,326,400 bytes free
